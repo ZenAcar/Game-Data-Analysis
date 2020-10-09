@@ -67,6 +67,3 @@ Analyze the data for a fictional,independent gaming company for their most recen
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-
-
